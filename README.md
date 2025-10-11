@@ -33,7 +33,7 @@ This course explores the intersection of **machine learning (ML)** and **finance
 - **Lec 9 — Large Language Models (LLMs)**  
   Sentiment; report generation; chatbots; reasoning; challenges.
 - **Lec 10 — Interpretability & Ethics**  
-  🔍 LIME/SHAP; clustering, t-SNE, graph DBs; ⚖️ bias/fairness; 🧾 compliance.
+  🔍 LIME/SHAP; clustering, t-SNE, graph DBs; bias/fairness; compliance.
 - **Lec 11 — Advanced Topics**  
   Transfer & federated learning; microstructure & stat-arb; backtesting pipeline.
 - **Lec 12 — Case Studies & Labs**  
