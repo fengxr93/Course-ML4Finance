@@ -78,6 +78,8 @@ Pick one—or propose your own (LLM-centric ideas welcome):
 
 My sincere thanks to **Bryan Kelly**, **Renyuan Xu**, and the many researchers who generously shared slides and teaching materials that informed parts of this course. Their scholarship and openness greatly improved the clarity and rigor of several lectures.
 
+---
+
 ## 📚 References & Suggested Reading
 - *Financial Machine Learning* — **Kelly & Xiu (2023)**
 - *Advances in Financial Machine Learning* — **López de Prado (2018)**
